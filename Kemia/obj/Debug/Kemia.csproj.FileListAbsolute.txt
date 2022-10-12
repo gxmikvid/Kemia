@@ -1,0 +1,7 @@
+C:\Users\cisco\source\repos\Kemia\Kemia\bin\Debug\Kemia.exe.config
+C:\Users\cisco\source\repos\Kemia\Kemia\bin\Debug\Kemia.exe
+C:\Users\cisco\source\repos\Kemia\Kemia\bin\Debug\Kemia.pdb
+C:\Users\cisco\source\repos\Kemia\Kemia\obj\Debug\Kemia.csprojAssemblyReference.cache
+C:\Users\cisco\source\repos\Kemia\Kemia\obj\Debug\Kemia.csproj.CoreCompileInputs.cache
+C:\Users\cisco\source\repos\Kemia\Kemia\obj\Debug\Kemia.exe
+C:\Users\cisco\source\repos\Kemia\Kemia\obj\Debug\Kemia.pdb
